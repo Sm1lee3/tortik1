@@ -1,0 +1,13 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #dd5b92;
+}
+
+.error_img{
+    display: flex;
+    justify-content: center;
+    background-color: #dd5b92;
+}
